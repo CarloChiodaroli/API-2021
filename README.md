@@ -2,7 +2,7 @@
 ### Prof. Alessandro Barenghi
 
 The objective of this project was to create a Graph Ranker program in C that was the fastest and used the least ammount of memory possible, without having to make any security, mantainability and concurency considerations.<br>
-Complete requirements available here in italian.
+Complete requirements available [here](https://github.com/CarloChiodaroli/API-2021/blob/master/Graph%20Ranker.pdf) in italian.
 
 This Project was made before attending any class on software engineering, so the code is not pretty at all.
 
